@@ -9,12 +9,12 @@
 * Phone number: +7 (982) 285-66-13
 * Nickname on Discord server RS-school: Alex Musatov (@4lmus)
 * Place of residence: Saint-Petersburg, Russia
-===
+
 ### About me
 I am a student at one of the universities in St. Petersburg. I have been studying here for the third year to become an electrical engineer. Recently I realized that I like the IT sphere more. I am ready to learn something new every day. During brainstorming sessions, it can be difficult for me to come up with new ideas, but it is much easier for me to improvise when creating a finished product.
 
 During my studies at the university, I studied the following programming languages: С++, python.
-===
+
 ### Code Examples
 As a code example, I provide a solution to a problem from Codewars.
 
@@ -29,10 +29,9 @@ function evenOrOdd(number) {
   }
 }
 ```
-===
+
 I have no experience in the IT field.
 
 When I was preparing for the course from rs-school, I took the HTML and CSS course on freeCodeCamp. I also started taking a JavaScript course on the same site.
 
 I studied English at school and at university. Before high school, I actively participated in all-Russian English language Olympiads. I also participated in outreach programs to improve spoken English from my school whenever possible. At this point I have forgotten some of the basic features, but I am ready to catch up.
-===
