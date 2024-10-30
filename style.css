@@ -1,0 +1,31 @@
+body {
+    font-size: 14px;
+    margin: 0 auto;
+    background-color: antiquewhite;
+    color: black;
+    font-family: sans-serif;
+    padding: 10px auto;
+}
+#head h1{
+    font-size: 25px;
+}
+#head h3{
+    font-size: 16px;
+}
+#head img {
+    max-width: 30vw;
+    max-height: 45vh;
+    object-fit: cover;
+}
+h1,h3 {
+    font-weight: bold;
+}
+.lang{
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#code{
+    background-color: burlywood;
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
