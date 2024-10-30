@@ -1,1 +1,1 @@
-https://4lmus.github.io/rsschool-cv/cv
+https://4lmus.github.io/rsschool-cv/
